@@ -18,7 +18,7 @@ A user-friendly **Tkinter-based GUI** allows real-time drawing and prediction of
 
 ## 📸 Demo
 
-![Prediction UI Demo](screenshots/demo.gif)
+![Prediction UI Demo](d:\mnnist\MNIST_Digit_Recognizer\Output\MNIST DIGIT RECOG - iii.png)
 
 ---
 
